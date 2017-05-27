@@ -1,14 +1,14 @@
 //
 //  ViewController.swift
-//  TestPeliculas
+//  prueba
 //
 //  Created by PEDRO ARMANDO MANFREDI on 27/5/17.
-//  Copyright © 2017 Pedro Manfredi. All rights reserved.
+//  Copyright © 2017 asd. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UITableViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,8 +21,5 @@ class ViewController: UITableViewController {
     }
 
 
-    
-    
-    
 }
 
