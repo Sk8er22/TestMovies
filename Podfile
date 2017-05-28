@@ -5,4 +5,6 @@ use_frameworks!
 target 'TestPeliculas' do
    	 pod 'SwiftyJSON'  
 	 pod 'Alamofire', '~> 4.4'
+         pod 'Kingfisher', '~> 3.0'
+
 end

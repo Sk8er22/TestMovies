@@ -75,8 +75,8 @@
 			children = (
 				574270421ED8E3820020BE8A /* AppDelegate.swift */,
 				574270441ED8E3820020BE8A /* ViewController.swift */,
-				576825E51ED9BC9400C1A2E4 /* CellPeliculas.swift */,
 				576825E71ED9C37A00C1A2E4 /* ClassPelicula.swift */,
+				576825E51ED9BC9400C1A2E4 /* CellPeliculas.swift */,
 				574270461ED8E3820020BE8A /* Main.storyboard */,
 				574270491ED8E3820020BE8A /* Assets.xcassets */,
 				5742704B1ED8E3820020BE8A /* LaunchScreen.storyboard */,
